@@ -1,0 +1,71 @@
+行标签,求和项:sample
+TCGA-BLCA,425
+Primary Tumor,406
+Solid Tissue Normal,19
+TCGA-BRCA,1185
+Primary Tumor,1086
+Solid Tissue Normal,99
+TCGA-CESC,299
+Primary Tumor,296
+Solid Tissue Normal,3
+TCGA-CHOL,44
+Primary Tumor,35
+Solid Tissue Normal,9
+TCGA-COAD,506
+Primary Tumor,465
+Solid Tissue Normal,41
+TCGA-ESCA,186
+Primary Tumor,173
+Solid Tissue Normal,13
+TCGA-GBM,151
+Primary Tumor,146
+Solid Tissue Normal,5
+TCGA-HNSC,559
+Primary Tumor,515
+Solid Tissue Normal,44
+TCGA-KICH,91
+Primary Tumor,66
+Solid Tissue Normal,25
+TCGA-KIRC,605
+Primary Tumor,533
+Solid Tissue Normal,72
+TCGA-KIRP,321
+Primary Tumor,289
+Solid Tissue Normal,32
+TCGA-LIHC,419
+Primary Tumor,369
+Solid Tissue Normal,50
+TCGA-LUAD,582
+Primary Tumor,524
+Solid Tissue Normal,58
+TCGA-LUSC,548
+Primary Tumor,497
+Solid Tissue Normal,51
+TCGA-PAAD,182
+Primary Tumor,178
+Solid Tissue Normal,4
+TCGA-PCPG,179
+Primary Tumor,176
+Solid Tissue Normal,3
+TCGA-PRAD,534
+Primary Tumor,483
+Solid Tissue Normal,51
+TCGA-READ,173
+Primary Tumor,163
+Solid Tissue Normal,10
+TCGA-SARC,260
+Primary Tumor,258
+Solid Tissue Normal,2
+TCGA-STAD,446
+Primary Tumor,410
+Solid Tissue Normal,36
+TCGA-THCA,557
+Primary Tumor,500
+Solid Tissue Normal,57
+TCGA-THYM,122
+Primary Tumor,120
+Solid Tissue Normal,2
+TCGA-UCEC,578
+Primary Tumor,543
+Solid Tissue Normal,35
+总计,8952
